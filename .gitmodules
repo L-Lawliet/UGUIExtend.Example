@@ -1,0 +1,4 @@
+[submodule "Packages/UGUIExtend"]
+	path = Packages/UGUIExtend
+	url = https://github.com/L-Lawliet/UGUIExtend.git
+	branch = develop
